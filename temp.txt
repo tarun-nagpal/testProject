@@ -5,3 +5,4 @@ Commit3
 -------------
 After Squash
 Commit4
+Commit5
