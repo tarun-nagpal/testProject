@@ -2,3 +2,6 @@ This is temp
 Commit1
 Commit2
 Commit3
+-------------
+After Squash
+Commit4
